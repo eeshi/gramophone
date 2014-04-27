@@ -17,7 +17,7 @@
     "lodash": "~2.4.1",
     "natural": "~0.1.22",
     "event-stream": "~3.1.2",
-    "underscore.string": "~2.3.1"
+    "underscore.string": "~2.3.3"
   },
   "devDependencies": {
     "tap": "~0.3.3"
