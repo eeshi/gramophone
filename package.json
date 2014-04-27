@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "~0.8.2",
+    "lodash": "~2.4.1",
     "natural": "~0.1.22",
     "event-stream": "~3.0.8",
     "underscore.string": "~2.3.1"
